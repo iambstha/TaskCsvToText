@@ -1,10 +1,12 @@
-package iambstha;
+package iambstha.utils;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+
+import iambstha.Task;
 
 public class TaskImporter {
 
