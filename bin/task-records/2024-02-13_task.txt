@@ -1,0 +1,30 @@
+Task 1
+Project: FNCCI
+Module: Company Module
+Issue: Schema changes
+Duration: 3 Hour
+Description: Schema rebuilt from scratch because of requirement changes
+Tech Stack: Spring Boot
+
+Task 2
+Project: ICRA
+Module: Assessment Module
+Issue: Surveillance date validation
+Duration: 1 Hour
+Description: Validation removed from scope because of requirement changes
+Tech Stack: Spring Boot
+
+Task 3
+Project: FNCCI
+Module: Company Module
+Issue: Adding company issue
+Duration: 4 Hour
+Description: Implemented company add api for all the schema changes
+Tech Stack: Spring Boot
+
+Task 4
+Project: FNCCI
+Module: Company Module
+Issue: Overflow issue while adding company
+Tech Stack: Spring Boot
+

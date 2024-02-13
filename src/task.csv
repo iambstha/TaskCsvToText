@@ -1,6 +1,5 @@
-Id,Project,Module,Issue,Duration,Description,Tech Stack,,,,
-1,ICRA,Assessment,Modification of association schema,1,Association schema modified based upon the requirement changes,Spring Boot,,,,
-2,FNCCI,Association,,,,,,,,
-3,FNCCI,Company,,,,,,,,
-4,FNCCI,Company Personal,Modification of association schema,1,Association schema modified based upon the requirement changes,Spring Boot,,,,
-5,ICRA,Assessment,,5,,,,,,
+Id,Project,Module,Issue,Duration,Description,Tech Stack
+1,FNCCI,Company Module,Schema changes,3,Schema rebuilt from scratch because of requirement changes,Spring Boot
+2,ICRA,Assessment Module,Surveillance date validation,1,Validation removed from scope because of requirement changes,Spring Boot
+3,FNCCI,Company Module,Adding company issue,4,Implemented company add api for all the schema changes,Spring Boot
+4,FNCCI,Company Module,Overflow issue while adding company,,,Spring Boot
