@@ -1,5 +1,7 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Company Module,Schema changes,3,Schema rebuilt from scratch because of requirement changes,Spring Boot
-2,ICRA,Assessment Module,Surveillance date validation,1,Validation removed from scope because of requirement changes,Spring Boot
-3,FNCCI,Company Module,Adding company issue,4,Implemented company add api for all the schema changes,Spring Boot
-4,FNCCI,Company Module,Overflow issue while adding company,,,Spring Boot
+1,FNCCI,Company Module,Schema changes,1,Some minor changes based on the requirements,Spring Boot
+2,FNCCI,Company Module,Circular dependency issue,1,Company add issue solved in service layer,Spring Boot
+3,FNCCI,Company Module,Company add api,1,Company add api completed,Spring Boot
+4,FNCCI,Company Module,Null issue in individual company add,1,Individual company add api completed,Spring Boot
+5,FNCCI,Company Module,Update company,4,"Update api for company, validation of fields during update and using mappers to update the data",Spring Boot
+6,FNCCI,Company Module,Update company,,Using mappers to update the data on PUT request,Spring Boot
