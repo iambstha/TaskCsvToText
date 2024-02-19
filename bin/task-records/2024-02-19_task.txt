@@ -1,0 +1,32 @@
+Task 1
+Project: FNCCI
+Module: Company Module
+Issue: NSIC Code Response
+Duration: 1 Hour
+Description: API changed and response format modified based on the requirement in frontend
+Tech Stack: Spring Boot
+
+Task 2
+Project: FNCCI
+Module: Company Module
+Issue: Company update using mappers
+Duration: 5 Hour
+Description: Updating company using mapstruct is completed 
+Tech Stack: Spring Boot
+
+Task 3
+Project: FNCCI
+Module: Company Module
+Issue: Individual Company update using mappers
+Duration: 1 Hour
+Description: Minor changes in logic
+Tech Stack: Spring Boot
+
+Task 4
+Project: FNCCI
+Module: Company Module
+Issue: Testing API
+Duration: 1 Hour
+Description: API tested for CRUD 
+Tech Stack: Swagger
+

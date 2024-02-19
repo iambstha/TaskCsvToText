@@ -1,0 +1,48 @@
+Task 1
+Project: FNCCI
+Module: Company Module
+Issue: Company add
+Duration: 1 Hour
+Description: "Fields addition by ids only in company add using mappers
+Tech Stack:  service layers modified"
+
+Task 2
+Project: FNCCI
+Module: Company Module
+Issue: Individual company add 
+Duration: 1 Hour
+Description: Fields addition by ids only in individual company add
+Tech Stack: Spring Boot
+
+Task 3
+Project: FNCCI
+Module: Company Module
+Issue: Company update using mappers
+Duration: 1 Hour
+Description: Update company using mapper
+Tech Stack: Spring Boot
+
+Task 4
+Project: FNCCI
+Module: Company Module
+Issue: Testing failed
+Duration: 1 Hour
+Description: "Update api test failed. Although updating company is working
+Tech Stack:  the related contact persons and other fields did not."
+
+Task 5
+Project: FNCCI
+Module: Company Module
+Issue: Body issue in frontend
+Duration: 2 Hour
+Description: Tested api body through frontend. Found the bug and solved
+Tech Stack: Spring Boot
+
+Task 6
+Project: FNCCI
+Module: Company Module
+Issue: Business type for individual company
+Duration: 0.5 Hour
+Description: Business type persistance during save is still there
+Tech Stack: Spring Boot
+

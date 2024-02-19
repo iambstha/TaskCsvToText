@@ -1,7 +1,5 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Company Module,Schema changes,1,Some minor changes based on the requirements,Spring Boot
-2,FNCCI,Company Module,Circular dependency issue,1,Company add issue solved in service layer,Spring Boot
-3,FNCCI,Company Module,Company add api,1,Company add api completed,Spring Boot
-4,FNCCI,Company Module,Null issue in individual company add,1,Individual company add api completed,Spring Boot
-5,FNCCI,Company Module,Update company,4,"Update api for company, validation of fields during update and using mappers to update the data",Spring Boot
-6,FNCCI,Company Module,Update company,,Using mappers to update the data on PUT request,Spring Boot
+1,FNCCI,Company Module,NSIC Code Response,1,API changed and response format modified based on the requirement in frontend,Spring Boot
+2,FNCCI,Company Module,Company update using mappers,5,Updating company using mapstruct is completed ,Spring Boot
+3,FNCCI,Company Module,Individual Company update using mappers,1,Minor changes in logic,Spring Boot
+4,FNCCI,Company Module,Testing API,1,API tested for CRUD ,Swagger
