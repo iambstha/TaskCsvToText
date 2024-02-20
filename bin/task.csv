@@ -1,5 +1,5 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Company Module,NSIC Code Response,1,API changed and response format modified based on the requirement in frontend,Spring Boot
-2,FNCCI,Company Module,Company update using mappers,5,Updating company using mapstruct is completed ,Spring Boot
-3,FNCCI,Company Module,Individual Company update using mappers,1,Minor changes in logic,Spring Boot
-4,FNCCI,Company Module,Testing API,1,API tested for CRUD ,Swagger
+1,FNCCI,Company Module,DELETE APIs,1,"Delete api was built for company production facilities, company staffs and company personals",Spring Boot
+2,FNCCI,Company Module,NSIC Response,1,NSIC Response was formatted based on the frontend requirement,Spring Boot
+3,FNCCI,Company Module,Filter by vat/pan number,3,Api was built to filter company based upon the vat/pan number of the company,Spring Boot
+4,FNCCI,Company Module,Validation by company individual flag,3,Validation was applied in query,"Postgres, Spring Boot"
