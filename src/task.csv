@@ -1,5 +1,6 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Company Module,DELETE APIs,1,"Delete api was built for company production facilities, company staffs and company personals",Spring Boot
-2,FNCCI,Company Module,NSIC Response,1,NSIC Response was formatted based on the frontend requirement,Spring Boot
-3,FNCCI,Company Module,Filter by vat/pan number,3,Api was built to filter company based upon the vat/pan number of the company,Spring Boot
-4,FNCCI,Company Module,Validation by company individual flag,3,Validation was applied in query,"Postgres, Spring Boot"
+1,FNCCI,Company Module,Vat/Pan Validation,2,Applied validation in company add and update api,Spring Boot
+2,FNCCI,Association Module,Vat/Pan Validation,2,Applied validation in association add and update api,Spring Boot
+3,FNCCI,Company Module,Testing API,1,Tested company api with recent changes,Swagger
+4,FNCCI,Association Module,Testing API,1,Tested association api with recent changes,Swagger
+5,FNCCI,,Postgres,2,Research on querries,"Postgres, Dbeaver"
