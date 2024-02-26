@@ -1,0 +1,29 @@
+Task 1
+Project: FNCCI
+Module: 
+Duration: 3 Hour
+Description: Research on design patterns
+Tech Stack: Java
+
+Task 2
+Project: FNCCI
+Module: User Module
+Duration: 3 Hour
+Description: Researced existing codes and it's workings
+Tech Stack: Spring Boot
+
+Task 3
+Project: FNCCI
+Module: Association Module
+Issue: Fetch data based on the logged in user
+Duration: 2 Hour
+Description: Get user details in association module
+Tech Stack: Spring Boot
+
+Task 4
+Project: FNCCI
+Module: Association Module
+Issue: Fetch data based on the logged in user
+Description: Implementing validation based on the user role
+Tech Stack: Spring Boot
+

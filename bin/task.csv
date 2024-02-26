@@ -1,6 +1,5 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Company Module,Vat/Pan Validation,2,Applied validation in company add and update api,Spring Boot
-2,FNCCI,Association Module,Vat/Pan Validation,2,Applied validation in association add and update api,Spring Boot
-3,FNCCI,Company Module,Testing API,1,Tested company api with recent changes,Swagger
-4,FNCCI,Association Module,Testing API,1,Tested association api with recent changes,Swagger
-5,FNCCI,,Postgres,2,Research on querries,"Postgres, Dbeaver"
+1,FNCCI,,,3,Research on design patterns,Java
+2,FNCCI,User Module,,3,Researced existing codes and it's workings,Spring Boot
+3,FNCCI,Association Module,Fetch data based on the logged in user,2,Get user details in association module,Spring Boot
+4,FNCCI,Association Module,Fetch data based on the logged in user,,Implementing validation based on the user role,Spring Boot
