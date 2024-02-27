@@ -1,5 +1,6 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,,,3,Research on design patterns,Java
-2,FNCCI,User Module,,3,Researced existing codes and it's workings,Spring Boot
-3,FNCCI,Association Module,Fetch data based on the logged in user,2,Get user details in association module,Spring Boot
-4,FNCCI,Association Module,Fetch data based on the logged in user,,Implementing validation based on the user role,Spring Boot
+1,FNCCI,Association Module,Entity changes,1,Changes in entity was made because of requirement changes,Spring boot
+2,FNCCI,Association Module,Validation by user/usergroup,3,Validation was applied in the service layer based upon the usergroup and user logged in,Spring boot
+3,FNCCI,Company Module,Use of mapper for company update,2,Mapper is used to handle update of company based upon dtos,"Spring boot, Mapstruct"
+4,FNCCI,Company and Association Module,Company association,2,Associating company with a list of associations were done by changing the business logic,Spring boot
+5,FNCCI,Company Module,Validation by user/usergroup,,Vaidation by user and usergroup in company module,Spring boot

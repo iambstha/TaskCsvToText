@@ -1,0 +1,39 @@
+Task 1
+Project: FNCCI
+Module: Association Module
+Issue: Entity changes
+Duration: 1 Hour
+Description: Changes in entity was made because of requirement changes
+Tech Stack: Spring boot
+
+Task 2
+Project: FNCCI
+Module: Association Module
+Issue: Validation by user/usergroup
+Duration: 3 Hour
+Description: Validation was applied in the service layer based upon the usergroup and user logged in
+Tech Stack: Spring boot
+
+Task 3
+Project: FNCCI
+Module: Company Module
+Issue: Use of mapper for company update
+Duration: 2 Hour
+Description: Mapper is used to handle update of company based upon dtos
+Tech Stack: "Spring boot
+
+Task 4
+Project: FNCCI
+Module: Company and Association Module
+Issue: Company association
+Duration: 2 Hour
+Description: Associating company with a list of associations were done by changing the business logic
+Tech Stack: Spring boot
+
+Task 5
+Project: FNCCI
+Module: Company Module
+Issue: Validation by user/usergroup
+Description: Vaidation by user and usergroup in company module
+Tech Stack: Spring boot
+
