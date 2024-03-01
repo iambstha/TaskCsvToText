@@ -1,0 +1,48 @@
+Task 1
+Project: FNCCI
+Module: Company Module
+Issue: Issue with some table in live database
+Duration: 0.5 Hour
+Description: Migration was done after the issue has been detected during executing a query
+Tech Stack: Dbeaver
+
+Task 2
+Project: FNCCI
+Module: User Module
+Issue: User association issue
+Duration: 2 Hour
+Description: User association was finally achieved with some tweaks in user service implementation
+Tech Stack: Spring Boot
+
+Task 3
+Project: FNCCI
+Module: Association Module
+Issue: User save during association add
+Duration: 0.5 Hour
+Description: "While a user creates an association
+Tech Stack:  it will be auto associated with the logged in user. This was achieved by doing some changes  in the association service module"
+
+Task 4
+Project: FNCCI
+Module: User Module
+Issue: Bug was found while creating a user by a super admin
+Duration: 2 Hour
+Description: Creating a user by a certain user was associating the associating with the very user but not the one that was being created. It was solved by some changes in user service implementation
+Tech Stack: Spring Boot
+
+Task 5
+Project: FNCCI
+Module: Association Module
+Issue: Super admin access
+Duration: 1 Hour
+Description: Super admin access was built for all the association service layers
+Tech Stack: Spring Boot
+
+Task 6
+Project: FNCCI
+Module: Company Module
+Issue: Validation in user module
+Duration: 2 Hour
+Description: Validation work is in process for company access based upon the user logged in
+Tech Stack: Spring Boot
+

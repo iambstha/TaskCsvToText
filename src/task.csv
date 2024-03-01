@@ -1,6 +1,7 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Association Module,Entity changes,1,Changes in entity was made because of requirement changes,Spring boot
-2,FNCCI,Association Module,Validation by user/usergroup,3,Validation was applied in the service layer based upon the usergroup and user logged in,Spring boot
-3,FNCCI,Company Module,Use of mapper for company update,2,Mapper is used to handle update of company based upon dtos,"Spring boot, Mapstruct"
-4,FNCCI,Company and Association Module,Company association,2,Associating company with a list of associations were done by changing the business logic,Spring boot
-5,FNCCI,Company Module,Validation by user/usergroup,,Vaidation by user and usergroup in company module,Spring boot
+1,FNCCI,Company Module,Issue with some table in live database,0.5,Migration was done after the issue has been detected during executing a query,Dbeaver
+2,FNCCI,User Module,User association issue,2,User association was finally achieved with some tweaks in user service implementation,Spring Boot
+3,FNCCI,Association Module,User save during association add,0.5,"While a user creates an association, it will be auto associated with the logged in user. This was achieved by doing some changes  in the association service module",Spring Boot
+4,FNCCI,User Module,Bug was found while creating a user by a super admin,2,Creating a user by a certain user was associating the associating with the very user but not the one that was being created. It was solved by some changes in user service implementation,Spring Boot
+5,FNCCI,Association Module,Super admin access,1,Super admin access was built for all the association service layers,Spring Boot
+6,FNCCI,Company Module,Validation in user module,2,Validation work is in process for company access based upon the user logged in,Spring Boot

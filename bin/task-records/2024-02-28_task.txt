@@ -1,0 +1,40 @@
+Task 1
+Project: FNCCI
+Module: 
+Issue: Expected domain id issue
+Duration: 1 Hour
+Description: "Issue was due to update of the IDE
+Tech Stack:  the issue was ignored for now through preference"
+
+Task 2
+Project: FNCCI
+Module: Company Module
+Issue: Unused parameter passed and never used
+Duration: 1 Hour
+Description: "Solved issue in company repository code
+Tech Stack:  the issue was with unused param in the query"
+
+Task 3
+Project: FNCCI
+Module: Association Module
+Issue: Usergroup not required for all the endpoints
+Duration: 4 Hour
+Description: Implemented user validation and removed usergroup validation for some endpoints
+Tech Stack: "Spring boot
+
+Task 4
+Project: FNCCI
+Module: Association Module
+Issue: API Testing
+Duration: 1 Hour
+Description: Tested get and post endpoints for necessary changes
+Tech Stack: Spring boot
+
+Task 5
+Project: FNCCI
+Module: Company Module
+Issue: API Testing
+Duration: 1 Hour
+Description: Tested get and post endpoints for necessary changes
+Tech Stack: Spring boot
+
