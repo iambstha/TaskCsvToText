@@ -1,0 +1,70 @@
+Task 1
+Project: FNCCI
+Module: Company Module
+Issue: Validation by user
+Duration: 2 Hour
+Description: Fetching company records by user done
+Tech Stack: Spring Boot
+
+Task 2
+Project: FNCCI
+Module: Company Module
+Issue: Super admin access to companies record
+Duration: 0.5 Hour
+Description: Super admin access to all the companies
+Tech Stack: Spring Boot
+
+Task 3
+Project: FNCCI
+Module: Association Module
+Issue: Super admin access to associations record
+Duration: 0.5 Hour
+Description: Super admin access to all the associations
+Tech Stack: Spring Boot
+
+Task 4
+Project: FNCCI
+Module: Company Module
+Issue: Updating validation by user
+Duration: 0.5 Hour
+Description: Update logic for vat / pan validation by other user is done for company update
+Tech Stack: Spring Boot
+
+Task 5
+Project: FNCCI
+Module: Association Module
+Issue: Updating validation by user
+Duration: 0.5 Hour
+Description: Update logic for vat / pan validation by other user is done for association update
+Tech Stack: Spring Boot
+
+Task 6
+Project: FNCCI
+Module: Company Module
+Issue: API Testing
+Duration: 1.5 Hour
+Description: API was tested thoroughly for company add and update from the front end side
+
+Task 7
+Project: FNCCI
+Module: Association Module
+Issue: API Testing
+Duration: 1.5 Hour
+Description: API was tested thoroughly for association add and update from the front end side
+
+Task 8
+Project: FNCCI
+Module: Company Module
+Issue: Base entity extended
+Duration: 0.5 Hour
+Description: Base entity was extended for handling update and created sub fields for company childrens
+Tech Stack: Spring Boot
+
+Task 9
+Project: FNCCI
+Module: Association Module
+Issue: Base entity extended
+Duration: 0.5 Hour
+Description: Base entity was extended for handling update and created sub fields for association childrens
+Tech Stack: Spring Boot
+

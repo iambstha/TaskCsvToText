@@ -1,7 +1,10 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Company Module,Issue with some table in live database,0.5,Migration was done after the issue has been detected during executing a query,Dbeaver
-2,FNCCI,User Module,User association issue,2,User association was finally achieved with some tweaks in user service implementation,Spring Boot
-3,FNCCI,Association Module,User save during association add,0.5,"While a user creates an association, it will be auto associated with the logged in user. This was achieved by doing some changes  in the association service module",Spring Boot
-4,FNCCI,User Module,Bug was found while creating a user by a super admin,2,Creating a user by a certain user was associating the associating with the very user but not the one that was being created. It was solved by some changes in user service implementation,Spring Boot
-5,FNCCI,Association Module,Super admin access,1,Super admin access was built for all the association service layers,Spring Boot
-6,FNCCI,Company Module,Validation in user module,2,Validation work is in process for company access based upon the user logged in,Spring Boot
+1,FNCCI,Company Module,Validation by user,2,Fetching company records by user done,Spring Boot
+2,FNCCI,Company Module,Super admin access to companies record,0.5,Super admin access to all the companies,Spring Boot
+3,FNCCI,Association Module,Super admin access to associations record,0.5,Super admin access to all the associations,Spring Boot
+4,FNCCI,Company Module,Updating validation by user,0.5,Update logic for vat / pan validation by other user is done for company update,Spring Boot
+5,FNCCI,Association Module,Updating validation by user,0.5,Update logic for vat / pan validation by other user is done for association update,Spring Boot
+6,FNCCI,Company Module,API Testing,1.5,API was tested thoroughly for company add and update from the front end side,
+7,FNCCI,Association Module,API Testing,1.5,API was tested thoroughly for association add and update from the front end side,
+8,FNCCI,Company Module,Base entity extended,0.5,Base entity was extended for handling update and created sub fields for company childrens,Spring Boot
+9,FNCCI,Association Module,Base entity extended,0.5,Base entity was extended for handling update and created sub fields for association childrens,Spring Boot
