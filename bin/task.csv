@@ -1,10 +1,5 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Company Module,Validation by user,2,Fetching company records by user done,Spring Boot
-2,FNCCI,Company Module,Super admin access to companies record,0.5,Super admin access to all the companies,Spring Boot
-3,FNCCI,Association Module,Super admin access to associations record,0.5,Super admin access to all the associations,Spring Boot
-4,FNCCI,Company Module,Updating validation by user,0.5,Update logic for vat / pan validation by other user is done for company update,Spring Boot
-5,FNCCI,Association Module,Updating validation by user,0.5,Update logic for vat / pan validation by other user is done for association update,Spring Boot
-6,FNCCI,Company Module,API Testing,1.5,API was tested thoroughly for company add and update from the front end side,
-7,FNCCI,Association Module,API Testing,1.5,API was tested thoroughly for association add and update from the front end side,
-8,FNCCI,Company Module,Base entity extended,0.5,Base entity was extended for handling update and created sub fields for company childrens,Spring Boot
-9,FNCCI,Association Module,Base entity extended,0.5,Base entity was extended for handling update and created sub fields for association childrens,Spring Boot
+1,ICRA,Assessment Module,Productivity Reporting,4,Made changes in the query and services according to the requirement,Spring Boot
+2,ICRA,Assessment Module,Productivity Reporting Download,1,Some changes were made to export the report in excel formal,Spring Boot
+3,HIMALI,,Database creation,1,Locally building database and made some changes,Postgres
+4,HIMALI,,Debugging jwt authorization,2,Jwt token decoding,Node JS

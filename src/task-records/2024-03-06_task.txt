@@ -1,0 +1,62 @@
+Task 1
+Project: FNCCI
+Module: Company Module
+Issue: API Testing
+Duration: 1 Hour
+Description: Company api was tested thoroughly
+
+Task 2
+Project: FNCCI
+Module: Association Module
+Issue: API Testing
+Duration: 1 Hour
+Description: Association api was tested thoroughly
+
+Task 3
+Project: FNCCI
+Module: Company Module
+Issue: Bug: Associating multiple association in individual company
+Duration: 1 Hour
+Description: Bug was found to be because of improper mapping in update company mapper. It is solved.
+Tech Stack: Spring Boot
+
+Task 4
+Project: FNCCI
+Module: Company Module
+Issue: Bug: Nsic delete issue
+Duration: 1 Hour
+Description: Nsic was being deleted from the main table not the sub table. The issue was solved by making some changes inservice layer
+Tech Stack: Spring Boot
+
+Task 5
+Project: ICRA
+Module: Assessment Module
+Issue: Reporting issue
+Duration: 1 Hour
+Description: Debugging
+Tech Stack: Spring Boot
+
+Task 6
+Project: ICRA
+Module: Assessment Module
+Issue: Rating executed reporting
+Duration: 1 Hour
+Description: "Fetched the rating assigned value
+Tech Stack:  need changes in frontend"
+
+Task 7
+Project: ICRA
+Module: Assessment Module
+Issue: Surveillance reporting
+Duration: 1 Hour
+Description: Surveillance record fetched applying validation by next surveillance date and latest record
+Tech Stack: Spring Boot
+
+Task 8
+Project: ICRA
+Module: Assessment Module
+Issue: Productivity analysis reporting
+Duration: 1 Hour
+Description: Query testing is going on for the required reporting
+Tech Stack: Postgres
+

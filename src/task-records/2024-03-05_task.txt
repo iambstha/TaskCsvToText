@@ -1,0 +1,84 @@
+Task 1
+Project: FNCCI
+Module: Company Module
+Issue: API Testing
+Duration: 1 Hour
+Description: Company api was tested thoroughly
+
+Task 2
+Project: FNCCI
+Module: Association Module
+Issue: API Testing
+Duration: 1 Hour
+Description: Association api was tested thoroughly
+
+Task 3
+Project: FNCCI
+Module: Company Module
+Issue: NSIC Delete Api
+Duration: 0.5 Hour
+Description: Api was built for deleting nsics that was left in previous build
+Tech Stack: Spring Boot
+
+Task 4
+Project: FNCCI
+Module: User Association Module
+Issue: Bug: User not associated with association while user creation
+Duration: 0.5 Hour
+Description: Bug was found to be the data pased through the frontend side and it was patched
+Tech Stack: Spring Boot
+
+Task 5
+Project: FNCCI
+Module: Association Module
+Issue: Bug: Parent association linkage null issue
+Duration: 0.5 Hour
+Description: Bug was fixed through some frontend changes
+Tech Stack: Spring Boot
+
+Task 6
+Project: FNCCI
+Module: Company Module
+Issue: Bug: Delete nsics during company delete
+Duration: 0.5 Hour
+Description: "Deleting a company should delete the associated nsic from the relational table too
+Tech Stack:  that was achieved by some changes in company service implementation"
+
+Task 7
+Project: FNCCI
+Module: Company Module
+Issue: NSIC DELETE issue
+Duration: 1 Hour
+Description: "Nsic delete issue was solved. The nsic from the main table was being deleted
+Tech Stack:  service was modified by additing a third table and updating the database through the repository"
+
+Task 8
+Project: FNCCI
+Module: Company Module
+Issue: Bug: Update issue
+Duration: 1 Hour
+Description: Issue was found to be caused because of missing body content that was not being passed in nsic field throught the frontend
+
+Task 9
+Project: FNCCI
+Module: Company Module
+Issue: Bug: Associated association was not mapped during company update
+Duration: 1 Hour
+Description: Issue was found to be in the mapping interface used in the company mapper for update  and the issue is solved through some debugging
+Tech Stack: Spring Boot
+
+Task 10
+Project: ICRA
+Module: Assessment Module
+Issue: Bug: Assessment validation
+Duration: 0.5 Hour
+Description: Surveillance issue in assessment validation
+
+Task 11
+Project: ICRA
+Module: Assessment Module
+Issue: Assessment creation validation
+Duration: 0.5 Hour
+Description: Valaidation was applied during creation of assessment allowing to create fresh assessment for different rating type
+Tech Stack: Spring Boot
+
