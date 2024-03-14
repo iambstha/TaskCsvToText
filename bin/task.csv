@@ -1,7 +1,6 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,ICRA,Assessment Module,[TEST] Download report api testing,1,All the api’s were found to be correctly working.,Spring Boot
-2,,,,1,Docker image building research,Swagger
-3,ICRA,Assessment Module,[FEATURE] Assessment type in the get assessment list,1,Assessment type field was included in the get assessment list api,Swagger
-4,ICRA,Assessment Module,[FEATURE] Assessment type in excel report,1,Assessment type field was added to the excel report field,Docker
-5,FNCCI,,Build issue,2,The issue was found to be because of invalid directory name including colon in the directory name. It was found and changes.,
-6,FNCCI,Company Module,[FEATURE] Multiple registered organization field to be added,2,"Entity, dtos and mapper is modified to make the multiple registered organization field work. Company add and delete is working. Company add of type individual is left to test.",
+1,FNCCI,Company Module,Multiple government registration,1,"Individual company add for multiple registered organization, delete api for registered organization done",Spring Boot
+2,FNCCI,Company Module,Field addition,1,Required fields are added in the company entities and dtos based on the requirement changes,Spring Boot
+3,FNCCI,Company Module,Excel creation,1,Excel creator utility created after some research,Spring Boot
+4,FNCCI,Company Module,[Feature] Download company record in excel,2,Company download using excel utility.,Spring Boot
+5,FNCCI,Company Module,[Bug] Updating company caused index out of bound issue,2,Issue hasn’t been solved. The reason behind the bug is found but not solved.,Mapstruct
