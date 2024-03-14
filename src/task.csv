@@ -1,5 +1,7 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Company Module,[BUG] Gender field missing in get company individual by id,0.5,"Issue was patched temporarily, needs proper changes",Spring Boot
-2,ICRA,,[TEST] API Testing,0.5,API was thoroughly tested,Swagger
-3,,,,5,Research on Docker,Docker
-4,ICRA,Assessment Module,[BUG] Limit Addendum Issue,2,Issue was found to be caused because of typo in the field name in frontend json body passed while calling the api. The issue was patched.,Spring Boot
+1,ICRA,Assessment Module,[TEST] Download report api testing,1,All the api’s were found to be correctly working.,Spring Boot
+2,,,,1,Docker image building research,Swagger
+3,ICRA,Assessment Module,[FEATURE] Assessment type in the get assessment list,1,Assessment type field was included in the get assessment list api,Swagger
+4,ICRA,Assessment Module,[FEATURE] Assessment type in excel report,1,Assessment type field was added to the excel report field,Docker
+5,FNCCI,,Build issue,2,The issue was found to be because of invalid directory name including colon in the directory name. It was found and changes.,
+6,FNCCI,Company Module,[FEATURE] Multiple registered organization field to be added,2,"Entity, dtos and mapper is modified to make the multiple registered organization field work. Company add and delete is working. Company add of type individual is left to test.",
