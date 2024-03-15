@@ -1,6 +1,4 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Company Module,Multiple government registration,1,"Individual company add for multiple registered organization, delete api for registered organization done",Spring Boot
-2,FNCCI,Company Module,Field addition,1,Required fields are added in the company entities and dtos based on the requirement changes,Spring Boot
-3,FNCCI,Company Module,Excel creation,1,Excel creator utility created after some research,Spring Boot
-4,FNCCI,Company Module,[Feature] Download company record in excel,2,Company download using excel utility.,Spring Boot
-5,FNCCI,Company Module,[Bug] Updating company caused index out of bound issue,2,Issue hasn’t been solved. The reason behind the bug is found but not solved.,Mapstruct
+1,FNCCI,Company Module,[Bug] Update company issue ,6,The issue was because of the use of mapstruct mapper to update the company. Issue was solved using thread-local and setting company using it. Separate mapper was created for just update.,Mapstruct
+2,FNCCI,Company Module,[Bug] Update individual company issue,1,Updating individual company does not updated the registered organization,Mapstruct
+3,FNCCI,Company/Association Module,Vat pan flag field added,1,Field added and tested,Spring Boot

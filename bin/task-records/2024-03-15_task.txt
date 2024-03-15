@@ -1,0 +1,24 @@
+Task 1
+Project: FNCCI
+Module: Company Module
+Issue: [Bug] Update company issue 
+Duration: 6 Hour
+Description: The issue was because of the use of mapstruct mapper to update the company. Issue was solved using thread-local and setting company using it. Separate mapper was created for just update.
+Tech Stack: Mapstruct
+
+Task 2
+Project: FNCCI
+Module: Company Module
+Issue: [Bug] Update individual company issue
+Duration: 1 Hour
+Description: Updating individual company does not updated the registered organization
+Tech Stack: Mapstruct
+
+Task 3
+Project: FNCCI
+Module: Company/Association Module
+Issue: Vat pan flag field added
+Duration: 1 Hour
+Description: Field added and tested
+Tech Stack: Spring Boot
+
