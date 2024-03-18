@@ -1,4 +1,4 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Company Module,[Bug] Update company issue ,6,The issue was because of the use of mapstruct mapper to update the company. Issue was solved using thread-local and setting company using it. Separate mapper was created for just update.,Mapstruct
-2,FNCCI,Company Module,[Bug] Update individual company issue,1,Updating individual company does not updated the registered organization,Mapstruct
-3,FNCCI,Company/Association Module,Vat pan flag field added,1,Field added and tested,Spring Boot
+1,FNCCI,Company Module,Updating company of type individual was not working,1,Issue was found to be because of transactional annotation,Spring Boot
+2,FNCCI,Association Module,Updating association containing zero sub table fields,2,Update mapper for association separated and used thread-local to set associations,Mapstruct
+3,FNCCI,Company Module,Excel download,3.5,Download utility used to design the required template & query was written to retrieve the details,"Spring Boot, Poi, Postgres"
