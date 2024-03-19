@@ -1,4 +1,5 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Company Module,Updating company of type individual was not working,1,Issue was found to be because of transactional annotation,Spring Boot
-2,FNCCI,Association Module,Updating association containing zero sub table fields,2,Update mapper for association separated and used thread-local to set associations,Mapstruct
-3,FNCCI,Company Module,Excel download,3.5,Download utility used to design the required template & query was written to retrieve the details,"Spring Boot, Poi, Postgres"
+1,FNCCI,Company Module,Filter for downloading company record,1,Added company filter by filter keyword and company type,Spring boot
+2,FNCCI,Company Module,Custom excel utility separated for further use,3,Excel utility was optimized so that it can be used in the future with little to no modifications,"POI, Spring Boot"
+3,FNCCI,Company Module,Controller modification,2,Controller was modified to make the excel download work with the modified excel utility,Spring boot
+4,FNCCI,Company Module,Nsic sub description issue,2,Adding the field sub description is going on,Spring boot
