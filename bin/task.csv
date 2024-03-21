@@ -1,5 +1,6 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Company Module,Filter for downloading company record,1,Added company filter by filter keyword and company type,Spring boot
-2,FNCCI,Company Module,Custom excel utility separated for further use,3,Excel utility was optimized so that it can be used in the future with little to no modifications,"POI, Spring Boot"
-3,FNCCI,Company Module,Controller modification,2,Controller was modified to make the excel download work with the modified excel utility,Spring boot
-4,FNCCI,Company Module,Nsic sub description issue,2,Adding the field sub description is going on,Spring boot
+1,FNCCI,Company Module,Company personal designation weight,1,"Designation field was added with necessary modification in the entity, dto and services",Spring Boot
+2,FNCCI,Association Module,Association personal designation weight,1,"Designation field was added with necessary modification in the entity, dto and services",Spring Boot
+3,FNCCI,Company Module,NSIC Sub-description field,2,Sub description for the nsic details was required to be added. It was achieved by making a third entity/table and made required changes in the service layer,
+4,FNCCI,Company Module,Update of company issue,2,"Company update issue because of addition of nsic sub description field, it was solved by making a mapping method in the company update mapper",
+5,FNCCI,Company Module,API Testing,2,"Company add, view, update was thoroughly tested after making the nsic changes",

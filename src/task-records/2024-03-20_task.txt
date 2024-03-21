@@ -1,0 +1,39 @@
+Task 1
+Project: FNCCI
+Module: Company Module
+Issue: Company personal designation weight
+Duration: 1 Hour
+Description: "Designation field was added with necessary modification in the entity
+Tech Stack:  dto and services"
+
+Task 2
+Project: FNCCI
+Module: Association Module
+Issue: Association personal designation weight
+Duration: 1 Hour
+Description: "Designation field was added with necessary modification in the entity
+Tech Stack:  dto and services"
+
+Task 3
+Project: FNCCI
+Module: Company Module
+Issue: NSIC Sub-description field
+Duration: 2 Hour
+Description: Sub description for the nsic details was required to be added. It was achieved by making a third entity/table and made required changes in the service layer
+
+Task 4
+Project: FNCCI
+Module: Company Module
+Issue: Update of company issue
+Duration: 2 Hour
+Description: "Company update issue because of addition of nsic sub description field
+Tech Stack:  it was solved by making a mapping method in the company update mapper"
+
+Task 5
+Project: FNCCI
+Module: Company Module
+Issue: API Testing
+Duration: 2 Hour
+Description: "Company add
+Tech Stack:  view
+
