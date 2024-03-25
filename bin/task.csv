@@ -1,6 +1,4 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Company Module,Company personal designation weight,1,"Designation field was added with necessary modification in the entity, dto and services",Spring Boot
-2,FNCCI,Association Module,Association personal designation weight,1,"Designation field was added with necessary modification in the entity, dto and services",Spring Boot
-3,FNCCI,Company Module,NSIC Sub-description field,2,Sub description for the nsic details was required to be added. It was achieved by making a third entity/table and made required changes in the service layer,
-4,FNCCI,Company Module,Update of company issue,2,"Company update issue because of addition of nsic sub description field, it was solved by making a mapping method in the company update mapper",
-5,FNCCI,Company Module,API Testing,2,"Company add, view, update was thoroughly tested after making the nsic changes",
+1,FNCCI,User Module,,2,User module research,Spring Boot
+2,FNCCI,Association Module,Office bearer field addition,2,Association office bearer field was added and necessary changes in business logic was done to handle the changes.,Spring Boot
+3,FNCCI,Association Module,Update association using mapper,1,Update association using mapper is done with account for zero sub table data addition,Spring Boot

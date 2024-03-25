@@ -1,0 +1,23 @@
+Task 1
+Project: FNCCI
+Module: User Module
+Duration: 2 Hour
+Description: User module research
+Tech Stack: Spring Boot
+
+Task 2
+Project: FNCCI
+Module: Association Module
+Issue: Office bearer field addition
+Duration: 2 Hour
+Description: Association office bearer field was added and necessary changes in business logic was done to handle the changes.
+Tech Stack: Spring Boot
+
+Task 3
+Project: FNCCI
+Module: Association Module
+Issue: Update association using mapper
+Duration: 1 Hour
+Description: Update association using mapper is done with account for zero sub table data addition
+Tech Stack: Spring Boot
+
