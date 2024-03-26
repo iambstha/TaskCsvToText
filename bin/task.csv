@@ -1,4 +1,4 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,User Module,,2,User module research,Spring Boot
-2,FNCCI,Association Module,Office bearer field addition,2,Association office bearer field was added and necessary changes in business logic was done to handle the changes.,Spring Boot
-3,FNCCI,Association Module,Update association using mapper,1,Update association using mapper is done with account for zero sub table data addition,Spring Boot
+1,FNCCI,Company Module,Nullable location issue,2,"For now, the error is handled by frontend but handling the null part by backend is a must and a work in progress.",Spring Boot
+2,FNCCI,Association Module,Nullable location issue,2,"For now, the error is handled by frontend but handling the null part by backend is a must and a work in progress.",Spring Boot
+3,FNCCI,Association Module,Upload excel data api,4,"Uploading association data from excel to database table. Generic table is ready, logic implementation for various field is still left.",Spring Boot

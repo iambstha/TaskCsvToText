@@ -1,0 +1,24 @@
+Task 1
+Project: FNCCI
+Module: Company Module
+Issue: Nullable location issue
+Duration: 2 Hour
+Description: "For now
+Tech Stack:  the error is handled by frontend but handling the null part by backend is a must and a work in progress."
+
+Task 2
+Project: FNCCI
+Module: Association Module
+Issue: Nullable location issue
+Duration: 2 Hour
+Description: "For now
+Tech Stack:  the error is handled by frontend but handling the null part by backend is a must and a work in progress."
+
+Task 3
+Project: FNCCI
+Module: Association Module
+Issue: Upload excel data api
+Duration: 4 Hour
+Description: "Uploading association data from excel to database table. Generic table is ready
+Tech Stack:  logic implementation for various field is still left."
+
