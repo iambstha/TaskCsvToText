@@ -1,4 +1,4 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Company Module,Nullable location issue,2,"For now, the error is handled by frontend but handling the null part by backend is a must and a work in progress.",Spring Boot
-2,FNCCI,Association Module,Nullable location issue,2,"For now, the error is handled by frontend but handling the null part by backend is a must and a work in progress.",Spring Boot
-3,FNCCI,Association Module,Upload excel data api,4,"Uploading association data from excel to database table. Generic table is ready, logic implementation for various field is still left.",Spring Boot
+1,FNCCI,Association Module,Association personal upload,3,Association personal upload from excel data done,Spring Boot
+2,FNCCI,User Module,[Bug] Non verified user error,2,"For now, the error is handled by frontend but handling the null part by backend is a must and a work in progress.",Spring Boot
+3,FNCCI,Association Module,Address upload,3,Province and district upload from excel data done,Spring Boot
