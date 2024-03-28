@@ -1,4 +1,4 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Association Module,Association personal upload,3,Association personal upload from excel data done,Spring Boot
-2,FNCCI,User Module,[Bug] Non verified user error,2,"For now, the error is handled by frontend but handling the null part by backend is a must and a work in progress.",Spring Boot
-3,FNCCI,Association Module,Address upload,3,Province and district upload from excel data done,Spring Boot
+1,FNCCI,Association Module,Election date type revert,2,Type of field association election field was reverted back to Date type and tested the implementations,Spring Boot
+2,FNCCI,Association Module,List of required changes,2,Excel format and database column fields are compared and the differences are found in association module,Spring Boot
+3,FNCCI,Association Module,Multiple membership type file upload,4,File upload logic updated to handle multiple membership type file in association,Spring Boot

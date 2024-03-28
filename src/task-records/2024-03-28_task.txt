@@ -1,0 +1,24 @@
+Task 1
+Project: FNCCI
+Module: Association Module
+Issue: Election date type revert
+Duration: 2 Hour
+Description: Type of field association election field was reverted back to Date type and tested the implementations
+Tech Stack: Spring Boot
+
+Task 2
+Project: FNCCI
+Module: Association Module
+Issue: List of required changes
+Duration: 2 Hour
+Description: Excel format and database column fields are compared and the differences are found in association module
+Tech Stack: Spring Boot
+
+Task 3
+Project: FNCCI
+Module: Association Module
+Issue: Multiple membership type file upload
+Duration: 4 Hour
+Description: File upload logic updated to handle multiple membership type file in association
+Tech Stack: Spring Boot
+
