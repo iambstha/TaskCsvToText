@@ -1,4 +1,4 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Association Module,Election date type revert,2,Type of field association election field was reverted back to Date type and tested the implementations,Spring Boot
-2,FNCCI,Association Module,List of required changes,2,Excel format and database column fields are compared and the differences are found in association module,Spring Boot
-3,FNCCI,Association Module,Multiple membership type file upload,4,File upload logic updated to handle multiple membership type file in association,Spring Boot
+1,FNCCI,Association Module,Addition of required fields,2,Some fields addition were made based on excel data and corresponding services are modified,Spring Boot
+2,FNCCI,Association Module,Upload api changes,2,Upload api changes in association controller,Spring Boot
+3,,,,4,Research on factory design pattern and it’s implementation in spring boot application,Spring Boot
