@@ -1,4 +1,4 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Association Module,Addition of required fields,2,Some fields addition were made based on excel data and corresponding services are modified,Spring Boot
-2,FNCCI,Association Module,Upload api changes,2,Upload api changes in association controller,Spring Boot
-3,,,,4,Research on factory design pattern and it’s implementation in spring boot application,Spring Boot
+1,ICRA,,,3,Research on building scheduler,Spring Boot
+2,ICRA,Assessment Module,Custom Scheduler,3,Built scheduler using java concurrent executor and tested for test mail,Spring Boot
+3,ICRA,Assessment Module,[Feature] Notification/Alert System,2,Implementing custom scheduler to trigger mail send option based on certain criteria fulfillment,Spring Boot
