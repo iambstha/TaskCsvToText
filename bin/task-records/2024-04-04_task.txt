@@ -1,0 +1,16 @@
+Task 1
+Project: FNCCI
+Module: Survey Module
+Issue: Ordering issue in public survey response report
+Duration: 4 Hour
+Description: Issue is solved
+Tech Stack: Spring Boot
+
+Task 2
+Project: ICRA
+Module: Assessment Module
+Issue: [Feature] Notification/Alert System
+Duration: 4 Hour
+Description: Used a separate thread to execute notification services. Date validation is left to.
+Tech Stack: Spring Boot
+
