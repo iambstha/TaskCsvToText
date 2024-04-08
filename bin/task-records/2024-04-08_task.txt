@@ -1,0 +1,16 @@
+Task 1
+Project: ICRA
+Module: Assessment Module
+Issue: Assessment details report
+Duration: 3 Hour
+Description: Assessment details report generation completed
+Tech Stack: Spring Boot
+
+Task 2
+Project: FNCCI
+Module: Survey Module
+Issue: Get the survey public response record
+Duration: 5 Hour
+Description: Previous code research. Partial logic implementation done
+Tech Stack: Spring Boot
+

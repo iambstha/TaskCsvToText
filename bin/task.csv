@@ -1,3 +1,3 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,FNCCI,Survey Module,Ordering issue in public survey response report,4,Issue is solved,Spring Boot
-2,ICRA,Assessment Module,[Feature] Notification/Alert System,4,Used a separate thread to execute notification services. Date validation is left to.,Spring Boot
+1,ICRA,Assessment Module,Assessment details report,3,Assessment details report generation completed,Spring Boot
+2,FNCCI,Survey Module,Get the survey public response record,5,Previous code research. Partial logic implementation done,Spring Boot
