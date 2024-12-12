@@ -1,3 +1,6 @@
 Id,Project,Module,Issue,Duration,Description,Tech Stack
-1,ICRA,Assessment Module,Assessment details report,3,Assessment details report generation completed,Spring Boot
-2,FNCCI,Survey Module,Get the survey public response record,5,Previous code research. Partial logic implementation done,Spring Boot
+1,PMS,How Module,Maximum weightage issue,1,Issue resolved by adding validation,Quarkus
+2,PMS,How Module,Competency group fallback on null,1,Validation by availability of competency groups for add and update,Quarkus
+3,PMS,How Module,Evaluation refactoring for using kpi id,1,Use of kpi id in evaluation,Quarkus
+4,PMS,Resources,Endpoint refactoring,1,Endpoint refactored as instructed by suman dai,Quarkus
+5,,,,,,

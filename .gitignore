@@ -1,0 +1,6 @@
+out/
+.idea/
+TaskCsvToText.iml
+.DS_Store
+TaskCsvToText.jar
+

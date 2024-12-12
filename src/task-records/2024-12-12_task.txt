@@ -1,0 +1,35 @@
+Task 1
+Project: PMS
+Module: How Module
+Issue: Maximum weightage issue
+Duration: 1 Hour
+Description: Issue resolved by adding validation
+Tech Stack: Quarkus
+
+Task 2
+Project: PMS
+Module: How Module
+Issue: Competency group fallback on null
+Duration: 1 Hour
+Description: Validation by availability of competency groups for add and update
+Tech Stack: Quarkus
+
+Task 3
+Project: PMS
+Module: How Module
+Issue: Evaluation refactoring for using kpi id
+Duration: 1 Hour
+Description: Use of kpi id in evaluation
+Tech Stack: Quarkus
+
+Task 4
+Project: PMS
+Module: Resources
+Issue: Endpoint refactoring
+Duration: 1 Hour
+Description: Endpoint refactored as instructed by suman dai
+Tech Stack: Quarkus
+
+Task 5
+Project: null
+
